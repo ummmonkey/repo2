@@ -1,0 +1,10 @@
+Package: com.ummmonkey.statusbutbetter
+Name: StatusButBetter
+Description: Change your status bar text! No service? No Problem!
+Maintainer: luke
+Author: luke
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0.7-3+debug
+Installed-Size: 232
